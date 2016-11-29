@@ -2,12 +2,11 @@
     "name": "au.com.ideacraft.cordova.estimote-cordova",
     "version": "0.0.1",
     "description": "A test build for running the Estimote SDK in cordova.\"",
-    "main": "index.js",
     "cordova": {
-        "id": "au.com.ideacraft.cordova.estimote-cordova",
+        "id" : "au.com.ideacraft.cordova.estimote-cordova",
         "platforms": [
-            "ios",
-            "android"
+            "android",
+            "ios"
         ]
     },
     "scripts": {
@@ -23,7 +22,5 @@
         "url": "https://github.com/stewil/estimote-cordova/issues"
     },
     "homepage": "https://github.com/stewil/estimote-cordova#readme",
-    "engines": {
-        "cordovaDependencies": {}
-    }
+    "keywords": []
 }
